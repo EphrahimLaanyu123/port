@@ -23,7 +23,7 @@ const Hero = () => {
             interfaces and web applications
           </p> */}
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-    I am a programmer specializing in the development of <br></br>  website applications and user interfaces. <br></br>
+    I am a programmer specializing in the development of<br></br>  website applications and user interfaces. <br></br>
 </p>
         </div>
       </div>
